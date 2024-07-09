@@ -21,7 +21,3 @@ Bu çalışma kapsamında kullanılan veri setleri, Spotify ve YouTube'da buluna
 - **İstatistiksel Analizler**: Verilere dair istatistiksel özetler ve bulguların çıkarılması.
 - **Trend Analizleri**: Zaman içindeki değişimler ve trendlerin incelenmesi.
 - **Korelasyon Analizleri**: Farklı değişkenler arasındaki ilişkilerin araştırılması.
-
-## Kullanım
-
-Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
