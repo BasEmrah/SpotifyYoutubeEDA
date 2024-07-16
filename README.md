@@ -1,3 +1,29 @@
+# Spotify and YouTube EDA Project
+
+In this project, Exploratory Data Analysis (EDA) was performed using Spotify and YouTube datasets. The aim is to obtain various findings and insights about the music and video content on these platforms.
+
+## Project Contents
+
+This repository contains the following file:
+
+- `EmrahBas_SpotifyYoutubeEDA.ipynb`: Jupyter Notebook file containing Exploratory Data Analyses performed on Spotify and YouTube datasets.
+
+## Datasets
+
+The datasets used in this study contain various information about music and video content available on Spotify and YouTube. They include details about the popularity of songs and videos, artists, albums, genres, and other related features.
+
+## Exploratory Data Analysis (EDA)
+
+In the `EmrahBas_SpotifyYoutubeEDA.ipynb` file, the analyses conducted on the datasets and the findings obtained are explained in detail. These analyses include the following:
+
+- **Data Cleaning**: Identification and correction of missing and erroneous data.
+- **Data Visualization**: Making the data more understandable using various graphs and visuals.
+- **Statistical Analyses**: Extracting statistical summaries and findings about the data.
+- **Trend Analyses**: Examining changes and trends over time.
+- **Correlation Analyses**: Investigating relationships between different variables.
+
+---
+
 # Spotify ve YouTube EDA Projesi
 
 Bu projede, Spotify ve YouTube veri setlerini kullanarak Keşifsel Veri Analizi (EDA) gerçekleştirilmiştir. Amaç, bu platformlardaki müzik ve video içeriklerine dair çeşitli bulgular ve içgörüler elde etmektir.
